@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>登录到主界面</string>
+    <string>Main</string>
    </property>
   </widget>
  </widget>
